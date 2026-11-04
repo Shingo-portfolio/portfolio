@@ -69,4 +69,9 @@
   --ratio-card-tall: 1.4 / 1;
   --map-label-top: 28%;
   --map-label-left: 42%;
+  --ratio-photo: 2.18 / 1;
+  --ratio-gallery: 1.38 / 1;
+  --border-width-thick: 2px;
+  --shop-th-width: 7rem;
+  --text-max: 28rem;
 }
