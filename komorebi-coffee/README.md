@@ -1,6 +1,6 @@
 # こもれび珈琲 コーディング見本
 
-架空のカフェ「こもれび珈琲」のデザイン画像（ChatGPT で生成）から、HTML / CSS でコーディングした見本です（4ページ）。
+カフェ「こもれび珈琲(仮名)」のデザイン画像（ChatGPT で生成）から、HTML / CSS でコーディングした見本です（4ページ）。
 
 - ページ: `index.html`（トップ）, `menu.html`（メニュー）, `concept.html`（こだわり）, `about.html`（お店について）
 - 色・文字・余白などの値は `css/tokens.css` にまとめ、`css/components.css` はその値だけを使っています
