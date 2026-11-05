@@ -1,9 +1,8 @@
-# こもれび珈琲 コーディング見本
+# 移転しました
 
-カフェ「こもれび珈琲(仮名)」のデザイン画像（ChatGPT で生成）から、HTML / CSS でコーディングした見本です（4ページ）。
+カフェのHPサイト（カフェ「こもれび珈琲(仮名)」）は、作品専用の置き場へ移しました。
 
-- ページ: `index.html`（トップ）, `menu.html`（メニュー）, `concept.html`（こだわり）, `about.html`（お店について）
-- 色・文字・余白などの値は `css/tokens.css` にまとめ、`css/components.css` はその値だけを使っています
-- パソコンとスマホの幅に対応しています
-- デザイン: `design/top.png`（トップ）, `design/menu.png`（メニュー）, `design/concept.png`（こだわり）, `design/about.png`（お店について）
-- 仕上がりの画面: `screenshots/`（幅 1440px と 375px）
+- 置き場: https://github.com/Shingo-portfolio/komorebi-coffee
+- 公開ページ: https://shingo-portfolio.github.io/komorebi-coffee/
+
+ここに残っているのは、前の住所を開いた人を新しいページへ送る案内ページだけです。
