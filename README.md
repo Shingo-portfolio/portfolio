@@ -1,7 +1,6 @@
 # Portfolio
 
-コーディングの見本の一覧です。作品ごとに置き場を分けています。
+コーディングの見本です。
 
-| 見本 | 内容 |
-|---|---|
-| [カフェのHPサイト](https://github.com/Shingo-portfolio/komorebi-coffee) | カフェ「こもれび珈琲(仮名)」のサイト（5ページ）。公開ページ: https://shingo-portfolio.github.io/komorebi-coffee/ |
+- カフェのHPサイト（架空のカフェ「こもれび珈琲(仮名)」・5ページ）: https://shingo-portfolio.github.io/komorebi-coffee/
+- ハンバーガー店のHPサイト（架空の店「サンタモニカ・バーガー(仮名)」・6ページ）: https://shingo-portfolio.github.io/santamonica-burger/
