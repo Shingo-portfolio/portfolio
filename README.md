@@ -7,3 +7,4 @@
 - 請求書作成ツール（架空の輸出会社の見本・データベースなし）: https://shingo-portfolio.github.io/invoice-tool/
 - 出品準備シート（架空の会社の見本・送料と利益の計算・データベースなし）: https://shingo-portfolio.github.io/listing-sheet/
 - CSV取り込み画面（架空の会社の見本・取り込みの流れの説明・データベースなし）: https://shingo-portfolio.github.io/csv-import-screen/
+- 顧客登録フォーム（架空の会社の見本・英語と日本語の切り替え・データベースなし）: https://shingo-portfolio.github.io/register-form/
